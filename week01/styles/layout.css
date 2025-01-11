@@ -28,4 +28,5 @@ footer {
 nav {
     display: flex;
     background-color: rgb(71, 47, 0);
+    padding: 10px;
 }
