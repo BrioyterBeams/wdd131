@@ -23,7 +23,7 @@ main {
 }
 
 .aside-content {
-    grid-column: 3 / 3;
+    grid-column: 3 / 4;
     background-color: rgb(1, 86, 86);
     padding: 20px
 }
@@ -49,6 +49,7 @@ nav ul {
     margin: 0;
     display: flex;
     gap: 10px; }
+
 nav ul li { 
     display: inline;
 }
